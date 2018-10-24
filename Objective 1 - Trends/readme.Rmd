@@ -2,7 +2,7 @@
 title: "Objective 1 - Trends"
 author: "Patrick Daniele"
 date: "October 24, 2018"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
