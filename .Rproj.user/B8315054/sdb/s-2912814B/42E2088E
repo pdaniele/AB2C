@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"README.md\"\nauthor: \"Patrick Daniele\"\ndate: \"October 24, 2018\"\noutput: github_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n<p>Summary:\nThis repository will serve to save all analysis related documentation for the project. The table below indicates the location of all information regarding the project. For privacy reasons, analyses are performed on Popdata BC's Secure Research Environment (SRE), therefore no data is stored in this repository.</p>\n\n<h3>Project Progress Table</h3>\n <table style=\"width:100%\">\n  <tr>\n    <th>Task</th>\n    <th>Status</th>\n    <th>Date Completed</th>\n    <th>Filename</th>\n  </tr>\n  <tr>\n    <td>Data Import</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>Meta-data file Creation</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n    <tr>\n    <td>Define BC Residency Periods</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n    <tr>\n    <td>Define Comorbidities</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n    <tr>\n    <td>Identify Events</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n    <tr>\n    <td>Define Concomitant Medications</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n    <tr>\n    <td>OAC Prescriptions dates and dosages</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n    <tr>\n    <td>AF Cases (Index diagnosis dates)</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n</table> \n\n<h3>Datasets</h3>\n <table style=\"width:100%\">\n  <tr>\n    <th>Dataset</th>\n    <th>Description</th>\n    <th>Variables</th>\n    <th>Notes</th>\n  </tr>\n  <tr>\n    <td>Demographics</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>Comorbidities</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n    <tr>\n    <td>Medications</td>\n    <td></td>\n    <td></td>\n    <td></td>\n  </tr>\n</table> \n\n\n<h3>Directory</h3>\n <table style=\"width:100%\">\n  <tr>\n    <th>Folder</th>\n    <th>Description</th>\n  </tr>\n  <tr>\n    <td>Objective 1 - Trends</td>\n    <td></td>\n  </tr>\n  <tr>\n    <td>Objective 2 - Patterns</td>\n    <td></td>\n  </tr>\n    <tr>\n    <td>Objective 3 - Adherence</td>\n    <td></td>\n  </tr>\n    <tr>\n    <td>Objective 4 - Outcomes</td>\n    <td></td>\n  </tr>\n</table> \n\n",
+    "created" : 1540407780004.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2001845497",
+    "id" : "42E2088E",
+    "lastKnownWriteTime" : 1540408790,
+    "last_content_update" : 1540408793401,
+    "path" : "R:/Outcome Centre/Projects/Nathaniel Hawkins/AF outcomes/Analysis/Git/AB2C/readme.md",
+    "project_path" : "readme.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
