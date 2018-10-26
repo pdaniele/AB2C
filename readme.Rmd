@@ -142,7 +142,7 @@ This repository will serve to save all analysis related documentation for the pr
     <td></td>
   </tr>
       <tr>
-    <td>Registry/td>
+    <td>Registry</td>
     <td>BC Registration dataset</td>
     <td></td>
     <td></td>
@@ -169,9 +169,9 @@ This repository will serve to save all analysis related documentation for the pr
   </tr>
   <tr>
     <td>BC Residency</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>BCResidency93dgap</td>
+    <td>Startdate, Enddate</td>
+    <td>Up to a 93 day gap in coverage is acceptable for continous registration.</td>
   </tr>
   <tr>
     <td>Comorbidities</td>
