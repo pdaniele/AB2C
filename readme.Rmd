@@ -35,9 +35,9 @@ This repository will serve to save all analysis related documentation for the pr
 
     <tr>
     <td>Define BC Residency Periods</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Complete</td>
+    <td>October 26, 2018</td>
+    <td>2.0 BC Residency.SAS</td>
   </tr>
     <tr>
     <td>Define Comorbidities</td>

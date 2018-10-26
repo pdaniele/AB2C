@@ -33,9 +33,9 @@ Project Progress Table
 </tr>
     <tr>
     <td>Define BC Residency Periods</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Complete</td>
+    <td>October 26, 2018</td>
+    <td>2.0 BC Residency.SAS</td>
 
 </tr>
     <tr>
@@ -159,7 +159,7 @@ Raw Datasets
 
 </tr>
       <tr>
-    <td>Registry/td>
+    <td>Registry</td>
     <td>BC Registration dataset</td>
     <td></td>
     <td></td>
@@ -189,9 +189,9 @@ Processed Datasets
 </tr>
 <tr>
     <td>BC Residency</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>BCResidency93dgap</td>
+    <td>Startdate, Enddate</td>
+    <td>Up to a 93 day gap in coverage is acceptable for continous registration.</td>
 
 </tr>
 <tr>
