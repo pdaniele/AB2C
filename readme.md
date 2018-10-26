@@ -18,17 +18,17 @@ Project Progress Table
 
 </tr>
 <tr>
-    <td>Data Import</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Meta-data file Creation</td>
+    <td>Complete</td>
+    <td>October 24, 2018</td>
+    <td>0.0 Meta-data File.SAS</td>
 
 </tr>
 <tr>
-    <td>Meta-data file Creation</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Data Import</td>
+    <td>Complete</td>
+    <td>October 26, 2018</td>
+    <td>1.0 Data Import.SAS</td>
 
 </tr>
     <tr>
@@ -75,8 +75,11 @@ Project Progress Table
 </tr>
 </table>
 <h3>
-Datasets
+Raw Datasets
 </h3>
+<p>
+<B>Location:</B> R:/SAS Data/Raw\_Data<br> <B>Libname:</B> Raw\_Data
+</p>
 <table style="width:100%">
 <tr>
     <th>Dataset</th>
@@ -87,6 +90,105 @@ Datasets
 </tr>
 <tr>
     <td>Demographics</td>
+    <td>Demographics data from Registry File</td>
+    <td>DOB, SEX</td>
+    <td></td>
+
+</tr>
+<tr>
+    <td>DAD</td>
+    <td>Hospitalizations datasets</td>
+    <td></td>
+    <td></td>
+
+</tr>
+<tr>
+    <td>Deaths</td>
+    <td>Death Dates</td>
+    <td></td>
+    <td></td>
+
+</tr>
+    <tr>
+    <td>Census_GEO</td>
+    <td>Census Indicators (SES)</td>
+    <td>QAIPPE, DAIPPE</td>
+    <td></td>
+
+</tr>
+      <tr>
+    <td>Dinpin_List</td>
+    <td>All medications extracted</td>
+    <td></td>
+    <td></td>
+
+</tr>
+      <tr>
+    <td>Cohort_Dinpin_List</td>
+    <td>Medications used for cohort definition</td>
+    <td></td>
+    <td></td>
+
+</tr>
+      <tr>
+    <td>NACRS</td>
+    <td>NACRS Data</td>
+    <td></td>
+    <td></td>
+
+</tr>
+    <tr>
+    <td>Pnet_clm_rpt</td>
+    <td>Pharmanet Claims Dataset</td>
+    <td></td>
+    <td></td>
+
+</tr>
+    <tr>
+    <td>pnt_dsp_rpt</td>
+    <td></td>
+    <td></td>
+    <td></td>
+
+</tr>
+    <tr>
+    <td>pnt_hlth_rpt</td>
+    <td>Health Products details</td>
+    <td></td>
+    <td></td>
+
+</tr>
+      <tr>
+    <td>Registry/td>
+    <td>BC Registration dataset</td>
+    <td></td>
+    <td></td>
+
+</tr>
+</table>
+<h3>
+Processed Datasets
+</h3>
+<p>
+<B>Location:</B> R:/SAS Data<br> <B>Libname:</B> Data
+</p>
+<table style="width:100%">
+<tr>
+    <th>Dataset</th>
+    <th>Description</th>
+    <th>Variables</th>
+    <th>Notes</th>
+
+</tr>
+<tr>
+    <td>Demographics</td>
+    <td>Patient demogs from Registry and Consolidation datasets</td>
+    <td>DOB, SEX, Death Date</td>
+    <td>N/A</td>
+
+</tr>
+<tr>
+    <td>BC Residency</td>
     <td></td>
     <td></td>
     <td></td>
