@@ -17,7 +17,7 @@ First prescription after diagnosis of AF within XX days of diagnosis.
     -   χ2 Test, t-test, ANOVA for differences in baseline characteristics where appropriate
     -   Test for Trend (Cochran–Armitage)
 
-2.  Compute age and sex standardized rates of AF incidence and prevalence.
+2.  Compute age and sex standardized rates of AF incidence and prevalence. (Thinking about this)
 3.  Prescription initiation pattern over time (Warfarin vs. NOAC, and NOAC Specific) in incident cohort.
     -   Test for trend (Cochran–Armitage)
 
@@ -28,8 +28,7 @@ First prescription after diagnosis of AF within XX days of diagnosis.
 
 1.  Flowchart showing breakdown by Age, Sex, SES after exclusions
 2.  Number of incident AF cases by year, prevalence over time.
-3.  Percentage initiated on each drug. Overall, Age, Sex, SES. (Shows trends in incident cases)
-4.  Percentage of total prescriptions each year (shows trends in prevalent cohort)
+3.  Percentage initiated on each drug. Overall, Age, Sex, SES. (Trends in incident cases)
 
 ##### Planned Tables
 
