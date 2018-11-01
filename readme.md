@@ -84,7 +84,7 @@ Directory
 
 </tr>
     <tr>
-    <th>[Datasets](docs/datasets.md)</th>
+    <th>[Datasets](..Docs/datasets.md)</th>
     <th>Raw, Manipulated, and Analysis dataset descriptions</th>
 
 </tr>

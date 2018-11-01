@@ -78,7 +78,7 @@ This repository will serve to save all analysis related documentation for the pr
     <th>Description</th>
   </tr>
     <tr>
-    <th>[Datasets](docs/datasets.md)</th>
+    <th>[Datasets](..Docs/datasets.md)</th>
     <th>Raw, Manipulated, and Analysis dataset descriptions</th>
   </tr>
   <tr>
