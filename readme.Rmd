@@ -31,7 +31,7 @@ This repository will serve to save all analysis related documentation for the pr
 | Folder/File                   | Description |
 |-------------------------------|-------------------------------------------------|
 |[Datasets](Docs/datasets.md)|Raw, Manipulated, and Analysis dataset descriptions   |
-|[Definitions](Docs/Definitions.md)|Cohort, Comorbidity, and Outcome definitions    |
+|[Definitions](Docs/definitions.md)|Cohort, Comorbidity, and Outcome definitions    |
 |[Objective 1 - Trends](Objective 1 - Trends/readme.md)||
 |[Objective 2 - Patterns](Objective 2 - Patterns/readme.md)||
 |[Objective 3 - Adherence](Objective 3 - Adherence/readme.md)||
