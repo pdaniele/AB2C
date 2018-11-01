@@ -1,7 +1,6 @@
 ---
 title: "AB2C Datasets"
-author: "Patrick Daniele"
-date: "November 1, 2018"
+date: "Last Updated: `r format(Sys.Date(), format='%B %d %Y')`"
 output: github_document
 ---
 

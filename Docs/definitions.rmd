@@ -1,7 +1,6 @@
 ---
 title: "Definitions"
-author: "Patrick Daniele"<br>
-date: "November 1, 2018"
+date: "Last Updated: `r format(Sys.Date(), format='%B %d %Y')`"
 output: github_document
 ---
 

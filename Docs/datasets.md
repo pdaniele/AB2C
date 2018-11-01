@@ -1,7 +1,6 @@
 AB2C Datasets
 ================
-Patrick Daniele
-November 1, 2018
+Last Updated: November 01 2018
 
 <h3>
 Raw Datasets

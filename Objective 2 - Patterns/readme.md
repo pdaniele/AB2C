@@ -1,7 +1,6 @@
 Objective 2 - Patterns
 ================
-Patrick Daniele
-October 24, 2018
+Last Updated: November 01 2018
 
 <p>
 This folder will contain all information regarding the analyses performed for objective 1

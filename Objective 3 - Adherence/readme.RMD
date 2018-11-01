@@ -1,7 +1,6 @@
 ---
 title: "Objective 3 - Adherence"
-author: "Patrick Daniele"
-date: "October 24, 2018"
+date: "Last Updated: `r format(Sys.Date(), format='%B %d %Y')`"
 output: github_document
 ---
 

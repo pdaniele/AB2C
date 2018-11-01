@@ -1,6 +1,6 @@
 ---
 title: "AB2C Project Overview"
-Date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: "Last Updated: `r format(Sys.Date(), format='%B %d %Y')`"
 output: github_document
 ---
 
