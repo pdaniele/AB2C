@@ -8,7 +8,7 @@ This folder will contain all information regarding the analyses performed for ob
 <p>
 <b>Objective 1</b>: To describe the temporal changes in overall and sex- and age-specific prescription trends for warfarin, apixaban, rivaroxaban and dabigatran, between January 2011 and December 2016, in all newly diagnosed AF patients in British Columbia and Alberta. Furthermore, we will assess whether these trends vary by sex, age, and socioeconomic status.
 </p>
-[Analysis plan found here](O1_Analysis_Plan.md)
+[Analysis plan found here](/O1_Analysis_Plan.md)
 
 <h3>
 Objective Progress Table
