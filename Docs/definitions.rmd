@@ -1,6 +1,6 @@
 ---
 title: "Definitions"
-author: "Patrick Daniele"
+author: "Patrick Daniele"<br>
 date: "November 1, 2018"
 output: github_document
 ---
