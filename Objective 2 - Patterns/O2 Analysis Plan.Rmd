@@ -1,0 +1,32 @@
+---
+title: "Objective 2 - Analysis Plan"
+date: "Last Updated: `r format(Sys.Date(), format='%B %d %Y')`"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##### Cohort(s)
+
+
+##### Outcomes / Endpoint(s): 
+
+
+##### Planned Analyses
+
+
+##### Planned Figures
+
+
+##### Planned Tables
+
+
+##### Optional Analyses
+
+
+
+
+
+
