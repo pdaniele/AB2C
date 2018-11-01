@@ -3,7 +3,7 @@ Objective 2 - Patterns
 Last Updated: November 01 2018
 
 <p>
-This folder will contain all information regarding the analyses performed for objective 1
+This folder will contain all information regarding the analyses performed for objective 2
 </p>
 <p>
 <b>Objective 2</b>: To describe the prescription patterns for warfarin, apixaban, rivaroxaban and dabigatran, focusing on the frequency and timing of patients’ prescription changes (i.e. switching to another anticoagulant) following their first anticoagulant prescription, during the study period. Furthermore, we will assess whether these prescription patterns vary by sex, age, and socioeconomic status.
