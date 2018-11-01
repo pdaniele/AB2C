@@ -1,7 +1,6 @@
 ---
 title: "AB2C Project Overview"
-author: "Patrick Daniele"  
-date: "October 24, 2018"
+Date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: github_document
 ---
 

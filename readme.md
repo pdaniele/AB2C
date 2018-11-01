@@ -1,7 +1,5 @@
 AB2C Project Overview
 ================
-Patrick Daniele
-October 24, 2018
 
 #### Summary:
 
