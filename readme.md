@@ -39,31 +39,31 @@ Project Progress Table
 
 </tr>
     <tr>
-    <td>Define Comorbidities</td>
+    <td>DAD Data Manipulations</td>
+    <td>In Progress</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>2.2 DAD.SAS</td>
 
 </tr>
     <tr>
-    <td>Identify Events</td>
+    <td>MSP Data Manipulations</td>
+    <td>In Progress</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>2.3 MSP.SAS</td>
 
 </tr>
     <tr>
-    <td>Define Concomitant Medications</td>
+    <td>PharmaNet Data Manipulations</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>2.4 PharmaNet.SAS</td>
 
 </tr>
     <tr>
-    <td>OAC Prescriptions dates and dosages</td>
+    <td>NACRS Data Manipulations</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>2.5 NACRS.SAS</td>
 
 </tr>
     <tr>
@@ -75,147 +75,17 @@ Project Progress Table
 </tr>
 </table>
 <h3>
-Raw Datasets
-</h3>
-<p>
-<B>Location:</B> R:/SAS Data/Raw\_Data<br> <B>Libname:</B> Raw\_Data
-</p>
-<table style="width:100%">
-<tr>
-    <th>Dataset</th>
-    <th>Description</th>
-    <th>Variables</th>
-    <th>Notes</th>
-
-</tr>
-<tr>
-    <td>Demographics</td>
-    <td>Demographics data from Registry File</td>
-    <td>DOB, SEX</td>
-    <td></td>
-
-</tr>
-<tr>
-    <td>DAD</td>
-    <td>Hospitalizations datasets</td>
-    <td></td>
-    <td></td>
-
-</tr>
-<tr>
-    <td>Deaths</td>
-    <td>Death Dates</td>
-    <td></td>
-    <td></td>
-
-</tr>
-    <tr>
-    <td>Census_GEO</td>
-    <td>Census Indicators (SES)</td>
-    <td>QAIPPE, DAIPPE</td>
-    <td></td>
-
-</tr>
-      <tr>
-    <td>Dinpin_List</td>
-    <td>All medications extracted</td>
-    <td></td>
-    <td></td>
-
-</tr>
-      <tr>
-    <td>Cohort_Dinpin_List</td>
-    <td>Medications used for cohort definition</td>
-    <td></td>
-    <td></td>
-
-</tr>
-      <tr>
-    <td>NACRS</td>
-    <td>NACRS Data</td>
-    <td></td>
-    <td></td>
-
-</tr>
-    <tr>
-    <td>Pnet_clm_rpt</td>
-    <td>Pharmanet Claims Dataset</td>
-    <td></td>
-    <td></td>
-
-</tr>
-    <tr>
-    <td>pnt_dsp_rpt</td>
-    <td></td>
-    <td></td>
-    <td></td>
-
-</tr>
-    <tr>
-    <td>pnt_hlth_rpt</td>
-    <td>Health Products details</td>
-    <td></td>
-    <td></td>
-
-</tr>
-      <tr>
-    <td>Registry</td>
-    <td>BC Registration dataset</td>
-    <td></td>
-    <td></td>
-
-</tr>
-</table>
-<h3>
-Processed Datasets
-</h3>
-<p>
-<B>Location:</B> R:/SAS Data<br> <B>Libname:</B> Data
-</p>
-<table style="width:100%">
-<tr>
-    <th>Dataset</th>
-    <th>Description</th>
-    <th>Variables</th>
-    <th>Notes</th>
-
-</tr>
-<tr>
-    <td>Demographics</td>
-    <td>Patient demogs from Registry and Consolidation datasets</td>
-    <td>DOB, SEX, Death Date</td>
-    <td>N/A</td>
-
-</tr>
-<tr>
-    <td>BC Residency</td>
-    <td>BCResidency93dgap</td>
-    <td>Startdate, Enddate</td>
-    <td>Up to a 93 day gap in coverage is acceptable for continous registration.</td>
-
-</tr>
-<tr>
-    <td>Comorbidities</td>
-    <td></td>
-    <td></td>
-    <td></td>
-
-</tr>
-    <tr>
-    <td>Medications</td>
-    <td></td>
-    <td></td>
-    <td></td>
-
-</tr>
-</table>
-<h3>
 Directory
 </h3>
 <table style="width:100%">
 <tr>
-    <th>Folder</th>
+    <th>Folder/File</th>
     <th>Description</th>
+
+</tr>
+    <tr>
+    <th>[Datasets](docs/datasets.md)</th>
+    <th>Raw, Manipulated, and Analysis dataset descriptions</th>
 
 </tr>
 <tr>
