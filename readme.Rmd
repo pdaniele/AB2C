@@ -7,7 +7,6 @@ output: github_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-
 ```
 
 #### Summary:
@@ -25,7 +24,6 @@ This repository will serve to save all analysis related documentation for the pr
 |PharmaNet Data Manipulations| | |2.4 PharmaNet.SAS|
 |NACRS Data Manipulations| | |2.5 NACRS.SAS|
 |AF Cases (Index diagnosis dates)| | | |
-
 
 
 ### Directory

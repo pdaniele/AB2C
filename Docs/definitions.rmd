@@ -1,0 +1,30 @@
+---
+title: "Definitions"
+author: "Patrick Daniele"
+date: "November 1, 2018"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Overview:
+
+This page outlines all definitions used for the project.
+
+### Comorbidities
+
+| Comorbidity               | Source | Codes | 
+|---------------------------|:------:|-------|
+|Diabetes|
+
+
+
+### Outcomes
+
+
+### Groups
+
+
+### Cohorts
