@@ -9,6 +9,7 @@ Summary: This repository will serve to save all analysis related documentation f
 <h3>
 Project Progress Table
 </h3>
+
 | Task                             |    Status   | Date Completed   | Filename               |
 |----------------------------------|:-----------:|------------------|------------------------|
 | Meta-data file Creation          |   Complete  | October 24, 2018 | 0.0 Meta-Data File.SAS |
@@ -23,6 +24,7 @@ Project Progress Table
 <h3>
 Directory
 </h3>
+
 | Folder/File                                                        | Description                                         |
 |--------------------------------------------------------------------|-----------------------------------------------------|
 | [Datasets](Docs/datasets.md)                                       | Raw, Manipulated, and Analysis dataset descriptions |
