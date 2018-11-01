@@ -9,103 +9,25 @@ Summary: This repository will serve to save all analysis related documentation f
 <h3>
 Project Progress Table
 </h3>
-<table style="width:100%">
-<tr>
-    <th>Task</th>
-    <th>Status</th>
-    <th>Date Completed</th>
-    <th>Filename</th>
+| Task                             |    Status   |  Date Completed  |        Filename        |
+|----------------------------------|:-----------:|:----------------:|:----------------------:|
+| Meta-data file Creation          |   Complete  | October 24, 2018 | 0.0 Meta-Data File.SAS |
+| Data Import                      |   Complete  | October 26, 2018 |   1.0 Data Import.SAS  |
+| Define BC Residency Periods      |   Complete  | October 26, 2018 |  2.0 BC Residency.SAS  |
+| DAD Data Manipulations           | In Progress |                  |       2.2 DAD.SAS      |
+| MSP Data Manipulations           | In Progress |                  |       2.3 MSP.SAS      |
+| PharmaNet Data Manipulations     |             |                  |    2.4 PharmaNet.SAS   |
+| NACRS Data Manipulations         |             |                  |      2.5 NACRS.SAS     |
+| AF Cases (Index diagnosis dates) |             |                  |                        |
 
-</tr>
-<tr>
-    <td>Meta-data file Creation</td>
-    <td>Complete</td>
-    <td>October 24, 2018</td>
-    <td>0.0 Meta-data File.SAS</td>
-
-</tr>
-<tr>
-    <td>Data Import</td>
-    <td>Complete</td>
-    <td>October 26, 2018</td>
-    <td>1.0 Data Import.SAS</td>
-
-</tr>
-    <tr>
-    <td>Define BC Residency Periods</td>
-    <td>Complete</td>
-    <td>October 26, 2018</td>
-    <td>2.0 BC Residency.SAS</td>
-
-</tr>
-    <tr>
-    <td>DAD Data Manipulations</td>
-    <td>In Progress</td>
-    <td></td>
-    <td>2.2 DAD.SAS</td>
-
-</tr>
-    <tr>
-    <td>MSP Data Manipulations</td>
-    <td>In Progress</td>
-    <td></td>
-    <td>2.3 MSP.SAS</td>
-
-</tr>
-    <tr>
-    <td>PharmaNet Data Manipulations</td>
-    <td></td>
-    <td></td>
-    <td>2.4 PharmaNet.SAS</td>
-
-</tr>
-    <tr>
-    <td>NACRS Data Manipulations</td>
-    <td></td>
-    <td></td>
-    <td>2.5 NACRS.SAS</td>
-
-</tr>
-    <tr>
-    <td>AF Cases (Index diagnosis dates)</td>
-    <td></td>
-    <td></td>
-    <td></td>
-
-</tr>
-</table>
 <h3>
 Directory
 </h3>
-<table style="width:100%">
-<tr>
-    <th>Folder/File</th>
-    <th>Description</th>
-
-</tr>
-    <tr>
-    <th>[Datasets](..Docs/datasets.md)</th>
-    <th>Raw, Manipulated, and Analysis dataset descriptions</th>
-
-</tr>
-<tr>
-    <td>Objective 1 - Trends</td>
-    <td></td>
-
-</tr>
-<tr>
-    <td>Objective 2 - Patterns</td>
-    <td></td>
-
-</tr>
-    <tr>
-    <td>Objective 3 - Adherence</td>
-    <td></td>
-
-</tr>
-    <tr>
-    <td>Objective 4 - Outcomes</td>
-    <td></td>
-
-</tr>
-</table>
+| Folder/File                                                        |                     Description                     |
+|--------------------------------------------------------------------|:---------------------------------------------------:|
+| [Datasets](Docs/datasets.md)                                       | Raw, Manipulated, and Analysis dataset descriptions |
+| [Definitions](Docs/Definitions.md)                                 |     Cohort, Comorbidity, and Outcome definitions    |
+| [Objective 1 - Trends](Objective%201%20-%20Trends/readme.md)       |                                                     |
+| [Objective 2 - Patterns](Objective%202%20-%20Patterns/readme.md)   |                                                     |
+| [Objective 3 - Adherence](Objective%203%20-%20Adherence/readme.md) |                                                     |
+| [Objective 4 - Outcomes](Objective%204%20-%20Outcomes/readme.md)   |                                                     |
