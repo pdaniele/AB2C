@@ -9,16 +9,16 @@ Summary: This repository will serve to save all analysis related documentation f
 <h3>
 Project Progress Table
 </h3>
-    | Task                      | Status | Date Completed | Filename             |
-    |---------------------------|:------:|--------------|---------------------|
-    |Meta-data file Creation    |Complete|October 24, 2018|0.0 Meta-Data File.SAS|
-    |Data Import                |Complete|October 26, 2018|1.0 Data Import.SAS   |
-    |Define BC Residency Periods|Complete|October 26, 2018|2.0 BC Residency.SAS  |
-    |DAD Data Manipulations     |In Progress||2.2 DAD.SAS|
-    |MSP Data Manipulations     |In Progress||2.3 MSP.SAS|
-    |PharmaNet Data Manipulations| | |2.4 PharmaNet.SAS|
-    |NACRS Data Manipulations| | |2.5 NACRS.SAS|
-    |AF Cases (Index diagnosis dates)| | | |
+| Task                             |    Status   | Date Completed   | Filename               |
+|----------------------------------|:-----------:|------------------|------------------------|
+| Meta-data file Creation          |   Complete  | October 24, 2018 | 0.0 Meta-Data File.SAS |
+| Data Import                      |   Complete  | October 26, 2018 | 1.0 Data Import.SAS    |
+| Define BC Residency Periods      |   Complete  | October 26, 2018 | 2.0 BC Residency.SAS   |
+| DAD Data Manipulations           | In Progress |                  | 2.2 DAD.SAS            |
+| MSP Data Manipulations           | In Progress |                  | 2.3 MSP.SAS            |
+| PharmaNet Data Manipulations     |             |                  | 2.4 PharmaNet.SAS      |
+| NACRS Data Manipulations         |             |                  | 2.5 NACRS.SAS          |
+| AF Cases (Index diagnosis dates) |             |                  |                        |
 
 <h3>
 Directory
