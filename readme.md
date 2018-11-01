@@ -6,9 +6,7 @@ October 24, 2018
 <p>
 Summary: This repository will serve to save all analysis related documentation for the project. The table below indicates the location of all information regarding the project. For privacy reasons, analyses are performed on Popdata BC's Secure Research Environment (SRE), therefore no data is stored in this repository.
 </p>
-<h3>
-Project Progress Table
-</h3>
+### Project Progress Table
 
 | Task                             |    Status   | Date Completed   | Filename               |
 |----------------------------------|:-----------:|------------------|------------------------|
@@ -21,9 +19,7 @@ Project Progress Table
 | NACRS Data Manipulations         |             |                  | 2.5 NACRS.SAS          |
 | AF Cases (Index diagnosis dates) |             |                  |                        |
 
-<h3>
-Directory
-</h3>
+### Directory
 
 | Folder/File                                                        | Description                                         |
 |--------------------------------------------------------------------|-----------------------------------------------------|
