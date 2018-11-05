@@ -7,7 +7,7 @@ Last Updated: November 05 2018
 1.  Incident Cohort
 2.  Prevalent Cohort
 
-##### Outcomes / Endpoint(s):
+##### Outcomes / Endpoint(s)
 
 1.  Prescription vs No Prescription (OAC vs. No Prescription)
 2.  First prescription (NOAC vs. Warfarin)

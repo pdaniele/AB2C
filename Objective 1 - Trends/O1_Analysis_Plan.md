@@ -1,12 +1,12 @@
 Objective 1 - Analysis Plan
 ================
-Last Updated: November 01 2018
+Last Updated: November 05 2018
 
 ##### Cohort(s)
 
 1.  Incident AF Cases between January 2011 to 2016
 
-##### Outcomes / Endpoint(s):
+##### Outcomes / Endpoint(s)
 
 First prescription after diagnosis of AF within XX days of diagnosis.
 

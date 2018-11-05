@@ -4,7 +4,7 @@ Last Updated: November 05 2018
 
 ##### Cohort(s)
 
-##### Outcomes / Endpoint(s):
+##### Outcomes / Endpoint(s)
 
 ##### Planned Analyses
 
