@@ -1,6 +1,6 @@
 AB2C Project Overview
 ================
-Last Updated: November 01 2018
+Last Updated: November 05 2018
 
 #### Summary:
 
@@ -8,16 +8,72 @@ This repository will serve to save all analysis related documentation for the pr
 
 ### Project Progress Table
 
-| Task                             |    Status   | Date Completed   | Filename               |
-|----------------------------------|:-----------:|------------------|------------------------|
-| Meta-data file Creation          |   Complete  | October 24, 2018 | 0.0 Meta-Data File.SAS |
-| Data Import                      |   Complete  | October 26, 2018 | 1.0 Data Import.SAS    |
-| Define BC Residency Periods      |   Complete  | October 26, 2018 | 2.0 BC Residency.SAS   |
-| DAD Data Manipulations           | In Progress |                  | 2.2 DAD.SAS            |
-| MSP Data Manipulations           | In Progress |                  | 2.3 MSP.SAS            |
-| PharmaNet Data Manipulations     |             |                  | 2.4 PharmaNet.SAS      |
-| NACRS Data Manipulations         |             |                  | 2.5 NACRS.SAS          |
-| AF Cases (Index diagnosis dates) |             |                  |                        |
+<table>
+<colgroup>
+<col width="37%" />
+<col width="12%" />
+<col width="20%" />
+<col width="29%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Task</th>
+<th align="center">Status</th>
+<th>Date Completed</th>
+<th>Filename</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Meta-data file Creation</td>
+<td align="center">Complete</td>
+<td>October 24, 2018</td>
+<td>0.0 Meta-Data File.SAS</td>
+</tr>
+<tr class="even">
+<td>Data Import</td>
+<td align="center">Complete</td>
+<td>October 26, 2018</td>
+<td>1.0 Data Import.SAS</td>
+</tr>
+<tr class="odd">
+<td>Define BC Residency Periods</td>
+<td align="center">Complete</td>
+<td>October 26, 2018</td>
+<td>2.0 BC Residency.SAS</td>
+</tr>
+<tr class="even">
+<td>DAD Data Manipulations</td>
+<td align="center">In Progress</td>
+<td></td>
+<td>2.2 DAD.SAS</td>
+</tr>
+<tr class="odd">
+<td>MSP Data Manipulations</td>
+<td align="center">Code Complete, Awaiting Definitions</td>
+<td>November 2, 2018</td>
+<td>2.3 MSP.SAS</td>
+</tr>
+<tr class="even">
+<td>PharmaNet Data Manipulations</td>
+<td align="center">Code Complete, Awaiting Definitons</td>
+<td>November 5, 2018</td>
+<td>2.4 PharmaNet.SAS</td>
+</tr>
+<tr class="odd">
+<td>NACRS Data Manipulations</td>
+<td align="center"></td>
+<td></td>
+<td>2.5 NACRS.SAS</td>
+</tr>
+<tr class="even">
+<td>AF Cases (Index diagnosis dates)</td>
+<td align="center"></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### Directory
 

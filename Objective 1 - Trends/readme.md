@@ -1,6 +1,6 @@
 Objective 1 - Trends
 ================
-Last Updated: November 01 2018
+Last Updated: November 05 2018
 
 This folder will contain all information regarding the analyses performed for objective 1
 
@@ -10,56 +10,13 @@ To describe the temporal changes in overall and sex- and age-specific prescripti
 
 [Analysis plan found here](O1_Analysis_Plan.md)
 
-### Objective Progress Table
+##### Progress Table
 
-<table style="width:100%">
-<tr>
-    <th>Task</th>
-    <th>Status</th>
-    <th>Date Completed</th>
-    <th>Filename</th>
-
-</tr>
-<tr>
-    <td>Define Cohort</td>
-    <td></td>
-    <td></td>
-    <td></td>
-
-</tr>
-<tr>
-    <td>Create Research Dataset</td>
-    <td></td>
-    <td></td>
-    <td></td>
-
-</tr>
-    <tr>
-    <td>Analyses</td>
-    <td></td>
-    <td></td>
-    <td></td>
-
-</tr>
-    <tr>
-    <td>Figures</td>
-    <td></td>
-    <td></td>
-    <td></td>
-
-</tr>
-    <tr>
-    <td>Tables</td>
-    <td></td>
-    <td></td>
-    <td></td>
-
-</tr>
-<tr>
-    <td>Summary Report</td>
-    <td></td>
-    <td></td>
-    <td></td>
-
-</tr>
-</table>
+| Task                    | Status | Date Completed | Filename |
+|-------------------------|--------|----------------|----------|
+| Define Cohort           |        |                |          |
+| Create Research Dataset |        |                |          |
+| Analyses                |        |                |          |
+| Figures                 |        |                |          |
+| Tables                  |        |                |          |
+| Summary Report          |        |                |          |
