@@ -19,8 +19,8 @@ This repository will serve to save all analysis related documentation for the pr
 |Data Import                |Complete|October 26, 2018|1.0 Data Import.SAS   |
 |Define BC Residency Periods|Complete|October 26, 2018|2.0 BC Residency.SAS  |
 |DAD Data Manipulations     |In Progress||2.2 DAD.SAS|
-|MSP Data Manipulations     |In Progress||2.3 MSP.SAS|
-|PharmaNet Data Manipulations| | |2.4 PharmaNet.SAS|
+|MSP Data Manipulations     |Code Complete, Awaiting Definitions|November 2, 2018|2.3 MSP.SAS|
+|PharmaNet Data Manipulations|Code Complete, Awaiting Definitons |November 5, 2018 |2.4 PharmaNet.SAS|
 |NACRS Data Manipulations| | |2.5 NACRS.SAS|
 |AF Cases (Index diagnosis dates)| | | |
 
