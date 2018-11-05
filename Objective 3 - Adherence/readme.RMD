@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 This folder will contain all information regarding the analyses performed for objective 3
 
 ##### Objective 3:
-To examine patient adherence to oral anticoagulants following their AF diagnosis and determine whether the extent of adherence varies by anticoagulant type, sex, age, and SES. </p>
+To examine patient adherence to oral anticoagulants following their AF diagnosis and determine whether the extent of adherence varies by anticoagulant type, sex, age, and SES.
 
 [Analysis plan found here](O3_Analysis_Plan.md)
 
