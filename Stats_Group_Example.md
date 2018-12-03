@@ -6,6 +6,12 @@ December 3, 2018
 Prepare for analyses
 --------------------
 
+``` r
+set.seed(1234)
+library(ggplot2)
+library(lattice)
+```
+
 Basic console output
 --------------------
 
