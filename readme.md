@@ -1,6 +1,6 @@
 AB2C Project Overview
 ================
-Last Updated: November 05 2018
+Last Updated: December 03 2018
 
 #### Summary:
 
@@ -44,8 +44,8 @@ This repository will serve to save all analysis related documentation for the pr
 </tr>
 <tr class="even">
 <td>DAD Data Manipulations</td>
-<td align="center">In Progress</td>
-<td></td>
+<td align="center">Complete</td>
+<td>November 12, 2018</td>
 <td>2.2 DAD.SAS</td>
 </tr>
 <tr class="odd">
@@ -62,15 +62,15 @@ This repository will serve to save all analysis related documentation for the pr
 </tr>
 <tr class="odd">
 <td>NACRS Data Manipulations</td>
-<td align="center"></td>
-<td></td>
+<td align="center">Complete</td>
+<td>November 15, 2018</td>
 <td>2.5 NACRS.SAS</td>
 </tr>
 <tr class="even">
 <td>AF Cases (Index diagnosis dates)</td>
-<td align="center"></td>
+<td align="center">In Progress</td>
 <td></td>
-<td></td>
+<td>3.0 Cohort Definition</td>
 </tr>
 </tbody>
 </table>
