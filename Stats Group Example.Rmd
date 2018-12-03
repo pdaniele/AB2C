@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Prepare for analyses
-```{r}
+```{r include=FALSE}
 set.seed(1234)
 library(ggplot2)
 library(lattice)
