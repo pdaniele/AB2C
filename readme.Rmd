@@ -18,11 +18,11 @@ This repository will serve to save all analysis related documentation for the pr
 |Meta-data file Creation    |Complete|October 24, 2018|0.0 Meta-Data File.SAS|
 |Data Import                |Complete|October 26, 2018|1.0 Data Import.SAS   |
 |Define BC Residency Periods|Complete|October 26, 2018|2.0 BC Residency.SAS  |
-|DAD Data Manipulations     |In Progress||2.2 DAD.SAS|
+|DAD Data Manipulations     |Complete|November 12, 2018|2.2 DAD.SAS|
 |MSP Data Manipulations     |Code Complete, Awaiting Definitions|November 2, 2018|2.3 MSP.SAS|
 |PharmaNet Data Manipulations|Code Complete, Awaiting Definitons |November 5, 2018 |2.4 PharmaNet.SAS|
-|NACRS Data Manipulations| | |2.5 NACRS.SAS|
-|AF Cases (Index diagnosis dates)| | | |
+|NACRS Data Manipulations|Complete|November 15, 2018 |2.5 NACRS.SAS|
+|AF Cases (Index diagnosis dates)| In Progress| |3.0 Cohort Definition|
 
 
 ### Directory
