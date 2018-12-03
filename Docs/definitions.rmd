@@ -26,3 +26,4 @@ This page outlines all definitions used for the project. IN PROGRESS.
 
 
 ### Cohorts
+GIT COMMIT EXAMPLE.
