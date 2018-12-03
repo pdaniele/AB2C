@@ -16,7 +16,11 @@ knitr::opts_chunk$set(echo = TRUE)
 set.seed(1234)
 library(ggplot2)
 library(lattice)
+
+data <- data(cars)
+summary(cars)
 ```
+
 
 
 ## Basic console output
