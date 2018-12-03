@@ -16,9 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 set.seed(1234)
 library(ggplot2)
 library(lattice)
-
-data <- data(cars)
-summary(cars)
 ```
 
 
@@ -27,8 +24,13 @@ summary(cars)
 To insert an R code chunk, you can type it manually or just press `Chunks - Insert chunks` or use the shortcut key. This will produce the following code chunk:
 
     ```{r}
-    
+summary(cars)
+plot(cars$dist,cars$speed)
     ```
+LOOK AT MY PRETTY PLOT!!! IT IS **BEAUTIFUL!**
+
+
+## Now Moving on!
 
 Pressing tab when inside the braces will bring up code chunk options.
 

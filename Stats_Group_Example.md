@@ -17,6 +17,31 @@ Basic console output
 
 To insert an R code chunk, you can type it manually or just press `Chunks - Insert chunks` or use the shortcut key. This will produce the following code chunk:
 
+    ```r
+    summary(cars)
+    ```
+
+    ```
+    ##      speed           dist       
+    ##  Min.   : 4.0   Min.   :  2.00  
+    ##  1st Qu.:12.0   1st Qu.: 26.00  
+    ##  Median :15.0   Median : 36.00  
+    ##  Mean   :15.4   Mean   : 42.98  
+    ##  3rd Qu.:19.0   3rd Qu.: 56.00  
+    ##  Max.   :25.0   Max.   :120.00
+    ```
+
+    ```r
+    plot(cars$dist,cars$speed)
+    ```
+
+    ![](Stats_Group_Example_files/figure-markdown_github/unnamed-chunk-2-1.png)
+
+LOOK AT MY PRETTY PLOT!!! IT IS **BEAUTIFUL!**
+
+Now Moving on!
+--------------
+
 Pressing tab when inside the braces will bring up code chunk options.
 
 The following R code chunk labelled `basicconsole` is as follows:
