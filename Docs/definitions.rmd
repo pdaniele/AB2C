@@ -26,4 +26,3 @@ This page outlines all definitions used for the project. IN PROGRESS.
 
 
 ### Cohorts
-THIS IS AN EXAMPLE FOR THE STATS GROUP!
