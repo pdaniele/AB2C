@@ -1,6 +1,6 @@
 AB2C Project Overview
 ================
-Last Updated: December 03 2018
+Last Updated: January 14 2019
 
 #### Summary:
 
@@ -68,9 +68,15 @@ This repository will serve to save all analysis related documentation for the pr
 </tr>
 <tr class="even">
 <td>AF Cases (Index diagnosis dates)</td>
+<td align="center">Complete</td>
+<td>December 15, 2018</td>
+<td>3.0 Cohort Definition</td>
+</tr>
+<tr class="odd">
+<td>Cohort Explorations</td>
 <td align="center">In Progress</td>
 <td></td>
-<td>3.0 Cohort Definition</td>
+<td>3.1 Cohort Explorations</td>
 </tr>
 </tbody>
 </table>

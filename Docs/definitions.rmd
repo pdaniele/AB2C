@@ -10,19 +10,48 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Overview:
 
-This page outlines all definitions used for the project. IN PROGRESS.
+This page outlines all definitions used for the project.
+
+### Cohort
+
+#### Prevalent AF Cases
+Steps to identify prevalent AF Cases:
+
+1. Identify AF diagnosis dates in each source
+  - DAD - ICD10 = I48 in any diagnosis position
+  - MSP - ICD9  = 4273 in any diagnosis position
+  - NACRS - ICD10 = I48 in any diagnosis position
+  - PNet - AF Specific medications
+2. Identify pairs of AF diagnoses in MSP between 30 days and 2 years apart.
+3. Merge diagnosis dates from each criteria, sort by date, select first.
+
+#### Incident AF Cases
+Steps to identify incident AF Cases:
+
+1. Limit prevalent cases based on BC residency with a minimum 3 years lookback.
+
 
 ### Comorbidities
-
-| Comorbidity               | Source(s)     | Codes | 
-|---------------------------|:-------------:|-------|
-|Diabetes                   |MSP, DAD, NACRS|ICD9: 250 ICD10: |
 
 
 ### Outcomes
 
+####Objective 1:
+1. First prescription post incident AF Diagnosis
+2.
+
+####Objective 2:
+
+####Objective 3:
+
+####Objective 4:
+1. Stroke
+2. Death
 
 ### Groups
+1. Age - <65, 65-74, >=75 at diagnosis
+2. Sex - Male, Female
+3. Socioeconomic Status - SES Quintile
 
 
-### Cohorts
+
