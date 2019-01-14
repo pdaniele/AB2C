@@ -36,8 +36,11 @@ knitr::opts_chunk$set(echo = TRUE)
 |Dataset|Description|Variables|Notes|
 |---|---|---|---|
 |Demographics|Patient demogs from Registry and Consolidation datasets|DOB, SEX, Death Date||
-|BC Residency|BCResidency93dgap|Startdate, Enddate|Up to a 93 day gap in coverage is acceptable for continous registration.|
-|MSP_Manip||||
-|DAD_Manip||||
+|BCResidency93dgap|BC Residency time frames|Startdate, Enddate|Up to a 93 day gap in coverage is acceptable for continous registration.|
+|MSP_Manip|Manipulated MSP Data|Service Date, Comorbidities||
+|Hosp_comorb_index|Manipulated DAD Data|Admission date, separation date, comorbidities| Comorbidities are defined as prior to admission|
+|Hosp_comorb_pre|Manipulated DAD Data|Admission date, separation date, comorbidities| Comorbidities are defined as anytime prior or during admission|
+|Outcomes| Outcomes identified in DAD Data| Admission Date, Separation date, outcome indicators||
 |PharmaNet_Manip||||
-|NACRS_Manip||||
+|NACRS_Manip|Manipulated NACRS data|Admission date, comorbidities||
+|Cohort_Prevalent|Prevalent Cohort|Diagnosis Date, Source, Criteria||

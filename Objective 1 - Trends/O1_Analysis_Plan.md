@@ -1,6 +1,6 @@
 Objective 1 - Analysis Plan
 ================
-Last Updated: November 05 2018
+Last Updated: January 14 2019
 
 ##### Cohort(s)
 
@@ -13,17 +13,16 @@ First prescription after diagnosis of AF within XX days of diagnosis.
 ##### Planned Analyses
 
 1.  Compute incidence and prevalence of AF.
-    -   Do I need to age/sex standardize?
-    -   Expand time frame from 2005 to 2016.
-
-2.  Calculate proportion of AF patients who received OAC prior to 2011. (No OAC vs Warfarin)
+    -   Crude rates
+    -   Direct standardized age and sex standardized rates
+2.  Calculate proportion of AF patients who received OAC before and after NOAC introduction. (No OAC vs Warfarin)
+    -   Describe trend in proportion of patients receiving OAC each year.
+    -   Test for Trend (Cochran–Armitage)
 3.  Describe incident AF Cohort stratified by age groups, sex, and SES over time.
     -   χ2 Test, t-test, ANOVA for differences in baseline characteristics where appropriate
     -   Test for Trend (Cochran–Armitage)
-
 4.  Prescription initiation pattern over time (NO OAC vs. Warfarin vs. NOAC, and NOAC Specific) in incident cohort.
     -   Test for trend (Cochran–Armitage)
-
 5.  Compare trends by Age, Sex, and SES in incident cohort
     -   Graphical comparisons.
 
@@ -31,7 +30,8 @@ First prescription after diagnosis of AF within XX days of diagnosis.
 
 1.  Flowchart showing breakdown by Age, Sex, SES after exclusions
 2.  Number of incident AF cases by year, prevalence over time.
-3.  Percentage initiated on each drug (NO OAC, Warfarin, NOAC-by type). Overall, Age, Sex, SES. (Trends in incident cases)
+3.  Percentage receiving OAC over time.
+4.  Percentage initiated on each drug over time (NO OAC, Warfarin, NOAC-by type). Overall, Age, Sex, SES. (Trends in incident cases)
 
 ##### Planned Tables
 

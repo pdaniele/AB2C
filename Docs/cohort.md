@@ -1,10 +1,10 @@
-Definitions
+Cohort Definition
 ================
 Last Updated: January 14 2019
 
 ### Overview:
 
-This page outlines all definitions used for the project.
+This page describes the cohort definition and process for the project.
 
 ### Cohort
 
@@ -20,31 +20,14 @@ Steps to identify prevalent AF Cases:
 -   PNet - AF Specific medications
 
 1.  Identify pairs of AF diagnoses in MSP between 30 days and 2 years apart.
-2.  Merge diagnosis dates from each criteria, sort by date, select first.
+2.  Merge diagnosis dates from each criteria, sort by date
+3.  Exclude cases based on BC Residency (Not registered at time of diagnosis)
 
 #### Incident AF Cases
 
 Steps to identify incident AF Cases:
 
 1.  Limit prevalent cases based on BC residency with a minimum 3 years lookback.
-
-### Comorbidities
-
-### Outcomes
-
-#### Objective 1:
-
-1.  First prescription post incident AF Diagnosis
-2.  
-
-#### Objective 2:
-
-#### Objective 3:
-
-#### Objective 4:
-
-1.  Stroke
-2.  Death
 
 ### Groups
 

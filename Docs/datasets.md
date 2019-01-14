@@ -1,6 +1,6 @@
 AB2C Datasets
 ================
-Last Updated: November 05 2018
+Last Updated: January 14 2019
 
 #### Raw Datasets
 
@@ -50,21 +50,33 @@ Last Updated: November 05 2018
 <td></td>
 </tr>
 <tr class="even">
-<td>BC Residency</td>
 <td>BCResidency93dgap</td>
+<td>BC Residency time frames</td>
 <td>Startdate, Enddate</td>
 <td>Up to a 93 day gap in coverage is acceptable for continous registration.</td>
 </tr>
 <tr class="odd">
 <td>MSP_Manip</td>
-<td></td>
-<td></td>
+<td>Manipulated MSP Data</td>
+<td>Service Date, Comorbidities</td>
 <td></td>
 </tr>
 <tr class="even">
-<td>DAD_Manip</td>
-<td></td>
-<td></td>
+<td>Hosp_comorb_index</td>
+<td>Manipulated DAD Data</td>
+<td>Admission date, separation date, comorbidities</td>
+<td>Comorbidities are defined as prior to admission</td>
+</tr>
+<tr class="odd">
+<td>Hosp_comorb_pre</td>
+<td>Manipulated DAD Data</td>
+<td>Admission date, separation date, comorbidities</td>
+<td>Comorbidities are defined as anytime prior or during admission</td>
+</tr>
+<tr class="even">
+<td>Outcomes</td>
+<td>Outcomes identified in DAD Data</td>
+<td>Admission Date, Separation date, outcome indicators</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -75,8 +87,14 @@ Last Updated: November 05 2018
 </tr>
 <tr class="even">
 <td>NACRS_Manip</td>
+<td>Manipulated NACRS data</td>
+<td>Admission date, comorbidities</td>
 <td></td>
-<td></td>
+</tr>
+<tr class="odd">
+<td>Cohort_Prevalent</td>
+<td>Prevalent Cohort</td>
+<td>Diagnosis Date, Source, Criteria</td>
 <td></td>
 </tr>
 </tbody>
