@@ -1,14 +1,24 @@
 Objective 1 - Analysis Plan
 ================
-Last Updated: January 14 2019
+Last Updated: February 04 2019
 
 ##### Cohort(s)
 
-1.  Incident AF Cases between January 2011 to 2016
+1.  Prevelant AF Cases (Burden of Disease)
+2.  Incident AF Cases between January 2012 to 2016 (OAC Uptake)
+
+##### Exclusions:
+
+1.  Burden of Disease Cohort
+    -   Reversible causes of AF (Cardiac Surgery, Pneumonia, Hyperthyroidism, Pregnancy)
+    -   Age Range?
+2.  OAC Uptake
+    -   Other indications for OAC (Mechanical Heart Valve, Valvular Heart Surgery, Systemic Embolization)
+    -   CHADSVASC &lt;=1
 
 ##### Outcomes / Endpoint(s)
 
-First prescription after diagnosis of AF within XX days of diagnosis.
+1.  First prescription after diagnosis of AF within 10,30, or 90 days of diagnosis. (OAC, NOAC, NO OAC)
 
 ##### Planned Analyses
 
@@ -19,12 +29,14 @@ First prescription after diagnosis of AF within XX days of diagnosis.
     -   Describe trend in proportion of patients receiving OAC each year.
     -   Test for Trend (Cochran–Armitage)
 3.  Describe incident AF Cohort stratified by age groups, sex, and SES over time.
-    -   χ2 Test, t-test, ANOVA for differences in baseline characteristics where appropriate
+    -   χ2 Test, t-test, ANOVA for differences in baseline characteristics and concomitant medications where appropriate
     -   Test for Trend (Cochran–Armitage)
 4.  Prescription initiation pattern over time (NO OAC vs. Warfarin vs. NOAC, and NOAC Specific) in incident cohort.
     -   Test for trend (Cochran–Armitage)
 5.  Compare trends by Age, Sex, and SES in incident cohort
     -   Graphical comparisons.
+6.  Explore factors associated with initial drug prescription using a logistic regression model.
+    -   Multinomial logistic model with No OAC, Warfarin, NOAC as outcomes.
 
 ##### Planned Figures
 
@@ -32,6 +44,7 @@ First prescription after diagnosis of AF within XX days of diagnosis.
 2.  Number of incident AF cases by year, prevalence over time.
 3.  Percentage receiving OAC over time.
 4.  Percentage initiated on each drug over time (NO OAC, Warfarin, NOAC-by type). Overall, Age, Sex, SES. (Trends in incident cases)
+5.  Forest plot of unadjusted and adjusted odds ratios for initial drug prescription.
 
 ##### Planned Tables
 

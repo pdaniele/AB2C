@@ -1,5 +1,5 @@
 ---
-title: "Objective 1 - Analysis Plan"
+title: "Objective 1: Trends and Uptake - Analysis Plan"
 date: "Last Updated: `r format(Sys.Date(), format='%B %d %Y')`"
 output: github_document
 ---
@@ -9,10 +9,19 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ##### Cohort(s)
-1. Incident AF Cases between January 2011 to 2016
+1. Prevelant AF Cases (Burden of Disease)
+2. Incident AF Cases between January 2012 to 2016 (OAC Uptake)
 
+##### Exclusions:
+1. Burden of Disease Cohort
+    * Reversible causes of AF (Cardiac Surgery, Pneumonia, Hyperthyroidism, Pregnancy)
+    * Age Range?
+2. OAC Uptake 
+    * Other indications for OAC (Mechanical Heart Valve, Valvular Heart Surgery, Systemic Embolization)
+    * CHADSVASC <=1 
+    
 ##### Outcomes / Endpoint(s)
-First prescription after diagnosis of AF within XX days of diagnosis.
+1. First prescription after diagnosis of AF within 10,30, or 90 days of diagnosis. (OAC, NOAC, NO OAC)
 
 ##### Planned Analyses
 1.  Compute incidence and prevalence of AF.
@@ -21,20 +30,22 @@ First prescription after diagnosis of AF within XX days of diagnosis.
 2.  Calculate proportion of AF patients who received OAC before and after NOAC introduction. (No OAC vs Warfarin)
     * Describe trend in proportion of patients receiving OAC each year.
     * Test for Trend (Cochran–Armitage)
-4. 	Describe incident AF Cohort stratified by age groups, sex, and SES over time. 
-    *	χ2 Test, t-test, ANOVA for differences in baseline characteristics where appropriate
+4. 	Describe incident AF Cohort stratified by age groups, sex, and SES 
+    *	χ2 Test, t-test, ANOVA for differences in baseline characteristics and concomitant medications where appropriate
     *	Test for Trend (Cochran–Armitage)
 5.	Prescription initiation pattern over time (NO OAC vs. Warfarin vs. NOAC, and NOAC Specific) in incident cohort.
     *	Test for trend (Cochran–Armitage)
 6.	Compare trends by Age, Sex, and SES in incident cohort 
     *	Graphical comparisons.
-
+7.  Explore factors associated with initial drug prescription using a logistic regression model. 
+    *	Multinomial logistic model with No OAC, Warfarin, NOAC as outcomes.
 
 ##### Planned Figures
 1. Flowchart showing breakdown by Age, Sex, SES after exclusions
 2. Number of incident AF cases by year, prevalence over time.
 3. Percentage receiving OAC over time.
 4. Percentage initiated on each drug over time (NO OAC, Warfarin, NOAC-by type). Overall, Age, Sex, SES. (Trends in incident cases)
+5. Forest plot of unadjusted and adjusted odds ratios for initial drug prescription.
 
 ##### Planned Tables
 1.	Baseline characteristics by age groups
@@ -44,7 +55,8 @@ First prescription after diagnosis of AF within XX days of diagnosis.
     * Warfarin vs NOAC and/or Warfarin vs specific NOACs.
 
 ##### Optional Analyses
-1. Describe dosages of initiated medication (i.e. low vs high in dabigatran)
+1.  Describe changes to cohort (baseline characteristics, medications etc.) over time.
+2.  Describe dosages of initiated medication (i.e. low vs high in dabigatran)
 
 
 
