@@ -19,18 +19,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ##### Planned Analyses
-1.	Explore factors associated with initial drug prescription using a logistic regression model. 
-    *	Multinomial logistic model with No OAC, Warfarin, NOAC as outcomes.
-2.	Model time to first switch using cox proportion hazards model.
-3.	Compare number of switches between groups.
+1.	Model time to first switch using cox proportion hazards model.
+2.	Compare number of switches between groups.
 
 ##### Planned Figures
-1.	Forest plot of unadjusted and adjusted odds ratios for initial drug prescription. 
-2.	Forest plot of unadjusted and adjusted hazard ratios for time to first switch. 
-3.	Kaplan Meier curves for time to first switch
+1.	Forest plot of unadjusted and adjusted hazard ratios for time to first switch. 
+2.	Kaplan Meier curves for time to first switch
 
 ##### Planned Tables
-1.	OR/HR with 95% confidence intervals
+1.	HR with 95% confidence intervals
 2.	Proportion of patients who switch from either Warfarin or NOAC.
 
 

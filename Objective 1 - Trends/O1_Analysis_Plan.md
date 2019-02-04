@@ -1,4 +1,4 @@
-Objective 1 - Analysis Plan
+Objective 1: Trends and Uptake - Analysis Plan
 ================
 Last Updated: February 04 2019
 
@@ -15,6 +15,7 @@ Last Updated: February 04 2019
 2.  OAC Uptake
     -   Other indications for OAC (Mechanical Heart Valve, Valvular Heart Surgery, Systemic Embolization)
     -   CHADSVASC &lt;=1
+    -   Survived and remained in province for up to 10,30,90 days to determine initial drug therapy
 
 ##### Outcomes / Endpoint(s)
 
@@ -28,7 +29,7 @@ Last Updated: February 04 2019
 2.  Calculate proportion of AF patients who received OAC before and after NOAC introduction. (No OAC vs Warfarin)
     -   Describe trend in proportion of patients receiving OAC each year.
     -   Test for Trend (Cochran–Armitage)
-3.  Describe incident AF Cohort stratified by age groups, sex, and SES over time.
+3.  Describe incident AF Cohort stratified by age groups, sex, and SES
     -   χ2 Test, t-test, ANOVA for differences in baseline characteristics and concomitant medications where appropriate
     -   Test for Trend (Cochran–Armitage)
 4.  Prescription initiation pattern over time (NO OAC vs. Warfarin vs. NOAC, and NOAC Specific) in incident cohort.
@@ -42,8 +43,8 @@ Last Updated: February 04 2019
 
 1.  Flowchart showing breakdown by Age, Sex, SES after exclusions
 2.  Number of incident AF cases by year, prevalence over time.
-3.  Percentage receiving OAC over time.
-4.  Percentage initiated on each drug over time (NO OAC, Warfarin, NOAC-by type). Overall, Age, Sex, SES. (Trends in incident cases)
+3.  Percentage initiated on OAC over time (2005 to 2016).
+4.  Percentage initiated on each drug over time, Warfarin vs NOAC (All), and NOAC by Type. Repeat overall, age, sex, and SES. (Trends in incident cases)
 5.  Forest plot of unadjusted and adjusted odds ratios for initial drug prescription.
 
 ##### Planned Tables
@@ -56,4 +57,17 @@ Last Updated: February 04 2019
 
 ##### Optional Analyses
 
-1.  Describe dosages of initiated medication (i.e. low vs high in dabigatran)
+1.  Describe changes to cohort (baseline characteristics, medications etc.) over time.
+2.  Describe dosages of initiated medication (i.e. low vs high in dabigatran)
+3.  OAC Uptake as a function of CHADSVASC, distribution of prescription type as well.
+4.  Give not initially prescribed an OAC, how many cases were eventually prescribed within 1, 2, 3 years
+5.  After introduction of NOACs does OAC Uptake increase?
+
+##### Limitations
+
+1.  Cannot define ASA use.
+2.  Unable to verify AF with ECG Data. Misclassification bias.
+
+#### Questions
+
+1.  Do Canadian guidelines discourage the use of ASA alone in management of stroke risk? European guidelines do, American Guidelines do not (As of 2017, <https://doi.org/10.4414/smw.2017.14410>)
