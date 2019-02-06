@@ -21,6 +21,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ##### Planned Analyses
 1.	Model time to first switch using cox proportion hazards model.
 2.	Compare number of switches between groups.
+3.  Proportion of patients initiated on Warfarin to who switch to NOAC
+    * Proportion of prevalent cases who switch from Warfarin to NOAC each year.
+4.  Predictors of switching from Warfarin to NOAC
+    * Logistic regression model
 
 ##### Planned Figures
 1.	Forest plot of unadjusted and adjusted hazard ratios for time to first switch. 

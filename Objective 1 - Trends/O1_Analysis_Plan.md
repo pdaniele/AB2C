@@ -1,11 +1,11 @@
 Objective 1: Trends and Uptake - Analysis Plan
 ================
-Last Updated: February 04 2019
+Last Updated: February 06 2019
 
 ##### Cohort(s)
 
-1.  Prevelant AF Cases (Burden of Disease)
-2.  Incident AF Cases between January 2012 to 2016 (OAC Uptake)
+1.  Prevalant AF Cases (Burden of Disease)
+2.  Incident AF Cases between January 2012 to 2016 (NOAC Uptake)
 
 ##### Exclusions:
 
@@ -17,6 +17,8 @@ Last Updated: February 04 2019
     -   CHADSVASC &lt;=1
     -   Survived and remained in province for up to 10,30,90 days to determine initial drug therapy
 
+Hip or Knee artheroplasty? <https://academic.oup.com/eurheartj/article/38/12/899/2931992> PE/DVT (Not sure if this is encompassed in "Systemic Embolization")
+
 ##### Outcomes / Endpoint(s)
 
 1.  First prescription after diagnosis of AF within 10,30, or 90 days of diagnosis. (OAC, NOAC, NO OAC)
@@ -24,20 +26,23 @@ Last Updated: February 04 2019
 ##### Planned Analyses
 
 1.  Compute incidence and prevalence of AF.
-    -   Crude rates
-    -   Direct standardized age and sex standardized rates
+    -   Prevalence defined as cumulative incidence from 2005 or from X years prior.
+    -   Crude and direct age/sex standardized rates
 2.  Calculate proportion of AF patients who received OAC before and after NOAC introduction. (No OAC vs Warfarin)
-    -   Describe trend in proportion of patients receiving OAC each year.
+    -   Describe trend in proportion of patients initiating OAC each year among incident cases.
+    -   Describe trend in proportion of patients utilizing OAC each year among prevalent cases.
     -   Test for Trend (Cochran–Armitage)
 3.  Describe incident AF Cohort stratified by age groups, sex, and SES
     -   χ2 Test, t-test, ANOVA for differences in baseline characteristics and concomitant medications where appropriate
     -   Test for Trend (Cochran–Armitage)
-4.  Prescription initiation pattern over time (NO OAC vs. Warfarin vs. NOAC, and NOAC Specific) in incident cohort.
+4.  Prescription initiation pattern over time (NO OAC vs. VKA vs. NOAC, and NOAC Specific) in incident cohort.
     -   Test for trend (Cochran–Armitage)
 5.  Compare trends by Age, Sex, and SES in incident cohort
     -   Graphical comparisons.
 6.  Explore factors associated with initial drug prescription using a logistic regression model.
-    -   Multinomial logistic model with No OAC, Warfarin, NOAC as outcomes.
+    -   Option 1: Multinomial logistic model with No OAC, VKA, NOAC as outcome + Create models pre/post introduction of NOAC to compare ORs.
+    -   Option 2: Limit to those receiving OAC. Binary outcome of VKA or NOAC
+    -   Option 3: 3 Models comparing each specific NOAC to VKA.
 
 ##### Planned Figures
 
@@ -67,6 +72,8 @@ Last Updated: February 04 2019
 
 1.  Cannot define ASA use.
 2.  Unable to verify AF with ECG Data. Misclassification bias.
+3.  Under coding of AF in out-patient physician claims (427 vs 4273)
+4.  No INR data for HAS-Bled, missing BMI and ethnicity, smoking/alcohol consumption will be underreported. Hypertension and comorbidities under-coded.
 
 #### Questions
 
