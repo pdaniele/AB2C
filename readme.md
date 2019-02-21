@@ -1,6 +1,6 @@
 AB2C Project Overview
 ================
-Last Updated: January 14 2019
+Last Updated: February 20 2019
 
 #### Summary:
 
@@ -50,33 +50,39 @@ This repository will serve to save all analysis related documentation for the pr
 </tr>
 <tr class="odd">
 <td>MSP Data Manipulations</td>
-<td align="center">Code Complete, Awaiting Definitions</td>
-<td>November 2, 2018</td>
+<td align="center">Complete</td>
+<td>February 12, 2018</td>
 <td>2.3 MSP.SAS</td>
 </tr>
 <tr class="even">
 <td>PharmaNet Data Manipulations</td>
-<td align="center">Code Complete, Awaiting Definitons</td>
-<td>November 5, 2018</td>
+<td align="center">Complete</td>
+<td>February 12, 2018</td>
 <td>2.4 PharmaNet.SAS</td>
 </tr>
 <tr class="odd">
 <td>NACRS Data Manipulations</td>
 <td align="center">Complete</td>
-<td>November 15, 2018</td>
+<td>November 15, 2019</td>
 <td>2.5 NACRS.SAS</td>
 </tr>
 <tr class="even">
 <td>AF Cases (Index diagnosis dates)</td>
 <td align="center">Complete</td>
-<td>December 15, 2018</td>
+<td>December 15, 2019</td>
 <td>3.0 Cohort Definition</td>
 </tr>
 <tr class="odd">
 <td>Cohort Explorations</td>
+<td align="center">Complete</td>
+<td>February 11, 2019</td>
+<td>3.1 Cohort Explorations</td>
+</tr>
+<tr class="even">
+<td>Objective 1 - Trends/Uptake</td>
 <td align="center">In Progress</td>
 <td></td>
-<td>3.1 Cohort Explorations</td>
+<td></td>
 </tr>
 </tbody>
 </table>
